@@ -40,10 +40,6 @@ if args.a is True:
 
 
 def main():
-    # Calls all available modules
-    # network()
-    # cpu()
-    print("Network Info")
 
     if __name__ == "__main__":
     # Do not forget this! Otherwise, nothing will seem to be working. :)
